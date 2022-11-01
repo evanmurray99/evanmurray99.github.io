@@ -72,12 +72,12 @@ This step we will setup a repository on GitHub. Make sure you are signed in on y
 
 ### **<u>Step 2</u>** 
 
-This step will use Jekyll to generate the needed files needed for creating the static site. 
+This step will use Jekyll to generate the needed files for creating the static site. 
 
 **Note**: This step requires basic command line knowledge. A short guide can be found under the ***More resourses*** section of this how-to. 
 
 1. Open ***Git Bash*** and change directory to where you would like to save the static site on your computer.
-2. Run the command `jekyll new mySite` to ceate a new Jekyll site at `./mySite`
+2. Run the command `jekyll new mySite` to create a new Jekyll site at `./mySite`
 3. Move into the newly created directory by running the command `cd mySite`
 4. Build and run the default site locally by running the command `bundle exec jekyll serve`
 
