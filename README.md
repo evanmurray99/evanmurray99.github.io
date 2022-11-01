@@ -13,8 +13,8 @@ Writing, as explained in Andrew Etter's book [Modern Technical Writing](https://
 
 Markdown
 
-* Markdown is an easy to use text-to-HTML conversion tool for web writers.
-* Markdown provides an easy-to-read, easy-to-write, lightweight markup language used for formating plaintext.
+* Markdown is an easy-to-use text-to-HTML conversion tool for web writers.
+* Markdown provides an easy-to-read, easy-to-write, lightweight markup language used for formatting plaintext.
 
 Visual Studio Code 
 
@@ -23,7 +23,7 @@ Visual Studio Code
 
 GitHub Pages 
 
-* GitHub Pages is a static site hosting service that takes source code straight from a repository on GitHub. It then runs the files through a build process, and publishes a website.
+* GitHub Pages is a static site hosting service that takes source code straight from a repository on GitHub. It then runs the files through a build process and publishes a website.
 * GitHub Pages only needs a Markdown file and a Jekyll generated site.
 
 Jekyll
@@ -53,7 +53,7 @@ Jekyll
 
 #### Jekyll
 
-* Download Ruby and Jekyll in order to create the static site. Ruby must be installed in order to download Jekyll.
+* Download Ruby and Jekyll to create the static site. Ruby must be installed to download Jekyll.
 	* A guide on how to install Ruby and Jekyll can be found [here](https://jekyllrb.com/docs/installation/windows/).
 
 ## Creating and Hosting
@@ -74,7 +74,7 @@ This step we will setup a repository on GitHub. Make sure you are signed in on y
 
 This step will use Jekyll to generate the needed files for creating the static site. 
 
-**Note**: This step requires basic command line knowledge. A short guide can be found under the ***More resourses*** section of this how-to. 
+**Note**: This step requires basic command line knowledge. A short guide can be found under the ***More resources*** section of this how-to. 
 
 1. Open ***Git Bash*** and change directory to where you would like to save the static site on your computer.
 2. Run the command `jekyll new mySite` to create a new Jekyll site at `./mySite`
@@ -83,7 +83,7 @@ This step will use Jekyll to generate the needed files for creating the static s
 
 The default site can be seen locally at <http://localhost:4000>
 
-> Step 2 demonstrates Etter's key principal of formating documentation using a static site generator. Static sites can be hosted basically anywere since they have no dependencies and no databases. Moving a site is as easy as moving a file from your desktop to a USB. This ease of use makes it easy for people of any programing skill set to use a static site generator such as Jekyll to host documentation.
+> Step 2 demonstrates Etter's key principle of formatting documentation using a static site generator. Static sites can be hosted basically anywhere since they have no dependencies and no databases. Moving a site is as easy as moving a file from your desktop to a USB. This ease of use makes it easy for people of any programing skill set to use a static site generator such as Jekyll to host documentation.
 
 ### **<u>Step 3</u>** 
  
@@ -103,7 +103,7 @@ This step will add your resume to the site in the format of a post.
 		---	
 3. Save and exit Visual Studio Code.
 
-> Step 3 highlights Etter's principal of using lightweight markup langauges. Lightweight markup languages such as Markdown have easy learning curse, therefor giving access to a larger group of people. This ease helps encourage contributions from those who have deep, helpful product knowledge, enhancing overall documentation. 
+> Step 3 highlights Etter's principal of using lightweight markup languages. Lightweight markup languages such as Markdown have easy learning curve, therefor giving access to a larger group of people. This ease helps encourage contributions from those who have deep, helpful product knowledge, enhancing overall documentation. 
 
 ### **<u>Step 4</u>** 
 
@@ -139,7 +139,7 @@ Zac Kolton
 
 #### Why is Markdown better than a word processor?
 
-Markdown is a better than a word processor because it allows for formating to be done from the keyboard rather than having to use a toolbar. This allows for writers to better focus on their writing without having switch from keyboard to mouse. 
+Markdown is a better than a word processor because it allows for formatting to be done from the keyboard rather than having to use a toolbar. This allows for writers to better focus on their writing without having switch from keyboard to mouse. 
 
 #### Why is my resume not showing up?
 
