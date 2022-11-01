@@ -114,7 +114,9 @@ This step will setup a Git repository inside of your mySite folder. In preparati
 5. Run the command `git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git` to connect the GitHub repository.
 6. Run the command `git push -u origin master` to upload your local files to GitHub.
 
-Once you have completed these steps you can go to ***YOUR-USERNAME.github.io*** and click on the most recent post to view the newly created page.
+Once you have completed these steps you can go to ***YOUR-USERNAME.github.io*** and click on the most recent post to view the newly created page. It should look something like this:
+
+![](myResume.gif)
 
 ## More Resources
 
