@@ -2,10 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: title
+layout: home
 ---
-
-## **Evan Murray**
   
 **91 Tangle Ridge Cresent • Winnipeg • Manitoba • R3Y-1Y2**  
 (204) 805-1578 • murraye2@myumanitoba.ca  
