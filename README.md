@@ -28,7 +28,7 @@ GitHub Pages
 
 Jekyll
 
-* Jekyll is a static site generator needed to host a shit on GitHub Pages.
+* Jekyll is a static site generator needed to host a site on GitHub Pages.
 * It takes text written in markup languages and uses layouts to create a static website.
 
 
@@ -43,7 +43,7 @@ Jekyll
 
 #### Github
 
-* Create a GitHub account, as it is required for using GitHub Pages. GitHub will be used to host your websites repository.
+* Create a GitHub account, as it is required for using GitHub Pages. GitHub will be used to host your website's repository.
 	* 	Users can create a new account [here](https://github.com/signup).
 
 #### Git
@@ -62,10 +62,11 @@ Jekyll
 
 This step we will setup a repository on GitHub. Make sure you are signed in on your GitHub account before moving on.
 
-1. On the main page of GitHub click the green ***New*** button on the left side of the page located in the "Recent Repositories" tab.
-2. Once on theCreate a new repository page name your repository ***YOUR-USERNAME.github.io***
+1. Go to the main page of GitHub 
+2. Click the green ***New*** button on the left side of the page located in the "Recent Repositories" tab.
+3. Once on theCreate a new repository page name your repository ***YOUR-USERNAME.github.io***
 	* 	You do not need to change any of the other settings on this page.
-3. Scroll to the bottom of the page and click the green ***Create repository*** button.
+4. Scroll to the bottom of the page and click the green ***Create repository*** button.
 
 >Step 1 and Step 4 implement Etter's recommendation of using distributed version control systems. Etter's continues by saying it is ideal to store your documentation and source code in the same repository allowing better synchronization between the two. 
 
@@ -90,8 +91,9 @@ This step will add your resume to the site in the format of a post.
 
 **Note**: You can edit multiple settings of your static site by editing the `_config.yml` file.
 
-1. Put you `resume.md` inside the `_Posts` folder and rename the resume to follow same format as the sample post. It will look something like this `2022-10-29-evan's-resume.md`
-2. Open the resume file and add the following table at the top of the document using Visual Studio Code. 
+1. Move your `resume.md` inside the `_Posts` folder 
+2. Rename the resume to follow same format as the sample post. It will look like this: `2022-10-29-evan's-resume.md`
+3. Open the resume file, add the following table at the top of the document using Visual Studio Code. 
 
 		---
 		layout: post/m
@@ -137,5 +139,9 @@ Zac Kolton
 
 #### Why is Markdown better than a word processor?
 
+Markdown is a better than a word processor because it allows for formating to be done from the keyboard rather than having to use a toolbar. This allows for writers to better focus on their writing without having switch from keyboard to mouse. 
+
 #### Why is my resume not showing up?
+
+GitHub takes some time to build and deploy static sites. Wait a few minutes and your resume will appear. If your resume is still not showing up make a commit to your repository to force GitHub to rebuild and redeploy the static site.
 
