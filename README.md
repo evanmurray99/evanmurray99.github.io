@@ -64,7 +64,7 @@ This step we will setup a repository on GitHub. Make sure you are signed in on y
 
 1. Go to the main page of GitHub 
 2. Click the green ***New*** button on the left side of the page located in the "Recent Repositories" tab.
-3. Once on theCreate a new repository page name your repository ***YOUR-USERNAME.github.io***
+3. Once on the ***Create a new repository*** page name your repository ***YOUR-USERNAME.github.io***
 	* 	You do not need to change any of the other settings on this page.
 4. Scroll to the bottom of the page and click the green ***Create repository*** button.
 
