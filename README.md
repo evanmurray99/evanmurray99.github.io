@@ -1,6 +1,6 @@
-#How to host a Markdown resume on GitHub Pages using Jekyll  
+# How to host a Markdown resume on GitHub Pages using Jekyll  
 
-##Purpose and Software Introduction  
+## Purpose and Software Introduction  
 
 This guide has two goals:  
 
@@ -9,7 +9,7 @@ This guide has two goals:
 Writing, as explained in Andrew Etter's book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
 
 
-###Software stack overview
+### Software stack overview
 
 Markdown
 
@@ -32,26 +32,26 @@ Jekyll
 * It takes text written in markup languages and uses layouts to create a static website.
 
 
-##Requirements/Setup
+## Requirements/Setup
 
-####Markdown
+#### Markdown
 
 * Create a Markdown formatted resume using Visual Studio Code.
 	* A guide for setting up Visual Studio Code to edit markdown can be found [here](https://code.visualstudio.com/docs/languages/markdown).
 	* A guide for Markdown syntax can be found [here](https://www.markdownguide.org/basic-syntax/).
 
 
-####Github
+#### Github
 
 * Create a GitHub account, as it is required for using GitHub Pages. GitHub will be used to host your websites repository.
 	* 	Users can create a new account [here](https://github.com/signup).
 
-####Git
+#### Git
 
 * Downloaded Git for version control and for uploading files to GitHub using Git Bash.
 	* Git can be downloaded from [here](https://git-scm.com/downloads).
 
-####Jekyll
+#### Jekyll
 
 * Download Ruby and Jekyll in order to create the static site. Ruby must be installed in order to download Jekyll.
 	* A guide on how to install Ruby and Jekyll can be found [here](https://jekyllrb.com/docs/installation/windows/).
