@@ -5,10 +5,6 @@
 layout: home
 ---
 
-
-
-
-
 # Evan Murray
   
 **91 Tangle Ridge Cresent • Winnipeg • Manitoba • R3Y-1Y2**  
