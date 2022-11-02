@@ -116,7 +116,7 @@ This step will setup a Git repository inside of your mySite folder. In preparati
 
 Once you have completed these steps you can go to ***YOUR-USERNAME.github.io*** and click on the most recent post to view the newly created page. It should look something like this:
 
-![](myResume.gif)
+![](resume.gif)
 
 ## More Resources
 
