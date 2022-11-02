@@ -11,6 +11,10 @@ layout: home
 (204) 805-1578 • murraye2@myumanitoba.ca  
 
 <br>
+
+----  
+
+<br>
   
 ### **<u>Education</u>**
 
