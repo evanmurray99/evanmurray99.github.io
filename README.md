@@ -87,21 +87,19 @@ The default site can be seen locally at <http://localhost:4000>
 
 ### **<u>Step 3</u>** 
  
-This step will add your resume to the site in the format of a post.
+This step will add your resume to the main page of the static site .
 
 **Note**: You can edit multiple settings of your static site by editing the `_config.yml` file.
 
-1. Move your `resume.md` inside the `_Posts` folder 
-2. Rename the resume to follow same format as the sample post. It will look like this: `2022-10-29-evan's-resume.md`
-3. Open the resume file, add the following table at the top of the document using Visual Studio Code. 
+1. Open the `index.markdown` file for editing Visual Studio Code.
+2. Copy and paste the contents of your created `resume.markdown` file into the `index.markdown` file.
+3. Change the `layout: home` to `layout: default`. The top of your document will look like this:
 
 		---
-		layout: post/m
-		title:  "My Resume"  
-		date:   2022-10-29 17:51:45 -0500
-		categories: jekyll update
+		layout: default
 		---	
 3. Save and exit Visual Studio Code.
+4. Delete the `_posts` folder, since we are no longer using the static site as a blog.
 
 > Step 3 highlights Etter's principal of using lightweight markup languages. Lightweight markup languages such as Markdown have easy learning curve, therefor giving access to a larger group of people. This ease helps encourage contributions from those who have deep, helpful product knowledge, enhancing overall documentation. 
 
