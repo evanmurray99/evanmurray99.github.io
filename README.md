@@ -141,7 +141,7 @@ Markdown is a better than a word processor because it allows for formatting to b
 
 #### Why is my resume not showing up?
 
-GitHub takes some time to build and deploy static sites. Wait a few minutes and your resume will appear. If your resume is still not showing up make a commit to your repository to force GitHub to rebuild and redeploy the static site. You can check on the deployment status by clicking on the `Enviroments` tab on the right hand side of the repository half way done the page.
+GitHub takes some time to build and deploy static sites. Wait a few minutes and your resume will appear. If your resume is still not showing up make a commit to your repository to force GitHub to rebuild and redeploy the static site. You can check on the deployment status by clicking on the `Enviroments` tab half way down on the right hand site of the repository the page.
 
 ![](deploymentStatus)
 
