@@ -94,12 +94,12 @@ This step will add your resume to the main page of the static site .
 1. Open the `index.markdown` file for editing Visual Studio Code.
 2. Copy and paste the contents of your created `resume.markdown` file into the `index.markdown` file.
 3. Change the `layout: home` to `layout: default`. The top of your document will look like this:
-
+		
 		---
 		layout: default
 		---	
-3. Save and exit Visual Studio Code.
-4. Delete the `_posts` folder, since we are no longer using the static site as a blog.
+4. Save and exit Visual Studio Code.
+5. Delete the `_posts` folder, since we are no longer using the static site as a blog.
 
 > Step 3 highlights Etter's principal of using lightweight markup languages. Lightweight markup languages such as Markdown have easy learning curve, therefor giving access to a larger group of people. This ease helps encourage contributions from those who have deep, helpful product knowledge, enhancing overall documentation. 
 
